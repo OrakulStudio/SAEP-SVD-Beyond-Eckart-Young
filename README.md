@@ -95,6 +95,6 @@ If you use SAEP-SVD in your research or workflows, please cite:
   year         = 2026,
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.23290865},
+  url          = {https://doi.org/10.5281/zenodo.23290865}
 }
