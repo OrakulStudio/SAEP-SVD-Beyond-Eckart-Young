@@ -2,7 +2,7 @@
 
 **Sign Alignment and Energy Preservation for Stable Distillation of Extreme-Rank LoRA Adapters in Diffusion Models**
 
-[![DOI](https://zenodo.org/badge/1413853512.svg)](https://doi.org/10.5281/zenodo.23290865)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23290969.svg)](https://doi.org/10.5281/zenodo.23290969)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -95,6 +95,6 @@ If you use SAEP-SVD in your research or workflows, please cite:
   year         = 2026,
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.23290865},
-  url          = {https://doi.org/10.5281/zenodo.23290865}
+  doi          = {10.5281/zenodo.23290969},
+  url          = {https://doi.org/10.5281/zenodo.23290969}
 }
