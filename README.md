@@ -2,7 +2,7 @@
 
 **Sign Alignment and Energy Preservation for Stable Distillation of Extreme-Rank LoRA Adapters in Diffusion Models**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1413853512.svg)](https://doi.org/10.5281/zenodo.23290865)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
