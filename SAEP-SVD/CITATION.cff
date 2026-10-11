@@ -9,7 +9,7 @@ version: 1.0.0
 date-released: 2026-10-11
 license: MIT
 repository-code: "https://github.com/OrakulStudio/SAEP-SVD"   
-url: "https://doi.org/10.5281/zenodo.XXXXXXX"                 
+url: "https://doi.org/10.5281/zenodo.23290865"                 
 abstract: >
   High-rank LoRA adapters (r = 512–2048) trained on large diffusion models 
   (Z-Image, Flux.1, Flux.2) suffer from severe degradation after standard 
