@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this method, please cite it as below."
+title: "SAEP-SVD: Sign Alignment and Energy Preservation for Stable Distillation of Extreme-Rank LoRA Adapters in Diffusion Models"
+authors:
+  - family-names: "Studio"
+    given-names: "Orakul"
+    orcid: "https://orcid.org/0009-0006-0678-8355"   
+version: 1.0.0
+date-released: 2026-10-11
+license: MIT
+repository-code: "https://github.com/OrakulStudio/SAEP-SVD"   
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"                 
+abstract: >
+  High-rank LoRA adapters (r = 512–2048) trained on large diffusion models 
+  (Z-Image, Flux.1, Flux.2) suffer from severe degradation after standard 
+  Eckart–Young SVD distillation. The resulting adapters only remain stable 
+  in an extremely narrow weight range (w ∈ [0.01, 0.05]). We identify phase 
+  misalignment of singular vectors and loss of Frobenius energy as the root 
+  causes. SAEP-SVD introduces Sign Alignment and Energy Preservation, 
+  restoring a usable weight range of approximately [0.05, 1.20] while 
+  preserving artistic style and detail.
+keywords:
+  - LoRA
+  - SVD
+  - distillation
+  - diffusion models
+  - Flux
+  - Z-Image
+  - high-rank adaptation
+  - Sign Alignment
+  - Energy Preservation
