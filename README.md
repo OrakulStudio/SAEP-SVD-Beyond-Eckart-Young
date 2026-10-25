@@ -75,6 +75,16 @@ Tested on:
 
 ---
 
+---
+🎬 Video & SAEP-SVD
+
+[SAEP-SVD-Beyond-Eckart-Young](https://youtu.be/FbQErHgYsms?si=retlbkHbwuBWf4KB)
+
+*▶️ Click the player above to watch the full video on YouTube*
+
+---
+
+
 ## Usage
 
 ```bash
